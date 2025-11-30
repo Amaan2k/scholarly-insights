@@ -2,6 +2,13 @@
 
 A web application for discovering and discussing arXiv research papers.
 
+## Core Features 
+- Search research papers from the arXiv API  
+- View metadata such as title, abstract, authors, and categories  
+- User authentication (login, signup)  
+- Comment on articles and participate in discussions  
+- Receive notifications for comments or interactions
+
 ## Team Members
 - Aadarsh LN
 - Amaan Ansari
